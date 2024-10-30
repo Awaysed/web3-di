@@ -14,7 +14,6 @@ const mount = ref(null)
 web3.eth.getBalance(account.address).then((res) => {
   mount.value = res
 })
-const a = 1
 </script>
 
 <style scoped lang="less"></style>

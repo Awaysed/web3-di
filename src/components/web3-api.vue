@@ -15,7 +15,7 @@ web3.eth.getBalance(account.address).then((res) => {
   mount.value = res
 })
 const num1 = web3.utils.toWei('0.3', 'tether')
-console.log(1111, num1)
+// console.log(1111, num1)
 </script>
 
 <style scoped lang="less"></style>

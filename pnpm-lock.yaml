@@ -20,6 +20,9 @@ dependencies:
   pinia:
     specifier: ^2.1.7
     version: 2.2.2(typescript@5.4.5)(vue@3.5.8)
+  safe-buffer:
+    specifier: ^5.2.1
+    version: 5.2.1
   unplugin-vue-components:
     specifier: ^0.27.4
     version: 0.27.4(vue@3.5.8)

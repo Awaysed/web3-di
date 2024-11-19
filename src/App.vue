@@ -5,6 +5,4 @@
   <RouterView />
 </template>
 <script setup lang="ts"></script>
-<style scoped>
-/* import 'vant/lib/index.css'; */
-</style>
+<style scoped></style>
